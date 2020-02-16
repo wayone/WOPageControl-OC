@@ -1,4 +1,5 @@
 # 小圆点 / PageControl - OC 版
+[点这里 Swift 版](https://github.com/wayone/WOPageControl-Swift)
 
 ## ✨支持自定义
 
