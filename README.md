@@ -28,4 +28,4 @@ self.pageControl.currentDotColor = [UIColor colorWithRed:34/255.0 green:34/255.0
 self.pageControl.numberOfPages = 5;
 
 // 修改当前页
-self.pageControl.currentPage = 1
+self.pageControl.currentPage = 1;
